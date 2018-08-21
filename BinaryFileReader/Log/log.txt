@@ -1,0 +1,9 @@
+8/21/2018  9:39:47 PM
+file001.dat is a duplicate of file: file002.dat
+
+Tuesday, August 21, 2018  9:41:05 PM
+file001.dat is a duplicate of file: file002.dat
+
+Tuesday, August 21, 2018  9:41:30 PM
+file001.dat is a duplicate of file: file002.dat
+

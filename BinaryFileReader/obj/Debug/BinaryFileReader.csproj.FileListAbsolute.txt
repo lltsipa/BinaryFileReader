@@ -1,0 +1,12 @@
+C:\Users\lonwabo.CONSEQUENT\Desktop\Lonwabo\BinaryFileReader\BinaryFileReader\bin\Debug\BinaryFileReader.exe.config
+C:\Users\lonwabo.CONSEQUENT\Desktop\Lonwabo\BinaryFileReader\BinaryFileReader\bin\Debug\BinaryFileReader.exe
+C:\Users\lonwabo.CONSEQUENT\Desktop\Lonwabo\BinaryFileReader\BinaryFileReader\bin\Debug\BinaryFileReader.pdb
+C:\Users\lonwabo.CONSEQUENT\Desktop\Lonwabo\BinaryFileReader\BinaryFileReader\obj\Debug\BinaryFileReader.csprojResolveAssemblyReference.cache
+C:\Users\lonwabo.CONSEQUENT\Desktop\Lonwabo\BinaryFileReader\BinaryFileReader\obj\Debug\BinaryFileReader.exe
+C:\Users\lonwabo.CONSEQUENT\Desktop\Lonwabo\BinaryFileReader\BinaryFileReader\obj\Debug\BinaryFileReader.pdb
+H:\2016\Lonwabo\BinaryFileReader\BinaryFileReader\bin\Debug\BinaryFileReader.exe.config
+H:\2016\Lonwabo\BinaryFileReader\BinaryFileReader\bin\Debug\BinaryFileReader.exe
+H:\2016\Lonwabo\BinaryFileReader\BinaryFileReader\bin\Debug\BinaryFileReader.pdb
+H:\2016\Lonwabo\BinaryFileReader\BinaryFileReader\obj\Debug\BinaryFileReader.csprojResolveAssemblyReference.cache
+H:\2016\Lonwabo\BinaryFileReader\BinaryFileReader\obj\Debug\BinaryFileReader.exe
+H:\2016\Lonwabo\BinaryFileReader\BinaryFileReader\obj\Debug\BinaryFileReader.pdb
